@@ -1,2 +1,6 @@
-je crée mon fichier depuis mon github repository
+﻿je crée mon fichier depuis mon github repository
 et je vais le pull sur gitbash pour l'avoir sur mon ordi
+
+et pour finir je vais juste le modifier sur mon ordi et le push sur mon repository avec un dernier commit
+merci pour la correction
+bonne journée ! 
