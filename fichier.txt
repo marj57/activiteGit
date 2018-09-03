@@ -1,0 +1,2 @@
+alors ici je crée mon fichier à partir de git bash
+et je vais le push dans mon github repository
