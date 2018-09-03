@@ -1,0 +1,2 @@
+je crée mon fichier depuis mon github repository
+et je vais le pull sur gitbash pour l'avoir sur mon ordi
